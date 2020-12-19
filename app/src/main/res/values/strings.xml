@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tab_text_1">Листок влево</string>
+    <string name="tab_text_2">Листок верх</string>
+    <string name="tab_text_3">Листок вправо</string>
+    <string name="message">Листок вправо</string>
+    <string name="btnfon">Листок вправо</string>
+    <string name="red">Листок вправо</string>
+    <string name="yellow">Листок вправо</string>
+    <string name="green">Листок вправо</string>
+    <color name="red">#FF0000</color>
+    <color name="yel">#FFff00</color>
+    <color name="green">#00ff00</color>
+</resources>
